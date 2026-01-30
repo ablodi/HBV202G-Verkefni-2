@@ -1,5 +1,5 @@
 HELLO WORLD!
 
-HALLÓ HEIMUR!
+Halló heimur!
 
-Konichiwa!
+KONICHIWA!
